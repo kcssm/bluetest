@@ -2,43 +2,43 @@
   "categories": [
     {
       "id": 1000,
-      "name": "Statea",
-      "parent_id": 1
+      "name": "State",
+      "parent_id": null
     },
     {
       "id": 1001,
-      "name": "NSWa",
-      "parent_id": 1
+      "name": "NSW",
+      "parent_id": 1000
     },
     {
       "id": 1002,
-      "name": "VICa",
-      "parent_id": 1
+      "name": "VIC",
+      "parent_id": 1000
     },
     {
       "id": 1003,
-      "name": "QLDa",
-      "parent_id": 1
+      "name": "QLD",
+      "parent_id": 1000
     },
     {
       "id": 1004,
-      "name": "WAa",
-      "parent_id": 1
+      "name": "WA",
+      "parent_id": 1000
     },
     {
       "id": 1005,
-      "name": "ACTa",
-      "parent_id": 1
+      "name": "ACT",
+      "parent_id": 1000
     },
     {
       "id": 1006,
-      "name": "Nationala",
-      "parent_id": 1
+      "name": "National",
+      "parent_id": null
     },
     {
       "id": 1007,
-      "name": "Worlda",
-      "parent_id": 1
+      "name": "World",
+      "parent_id": null
     }
   ]
 }
